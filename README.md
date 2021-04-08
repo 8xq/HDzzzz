@@ -18,6 +18,10 @@
  * [Hcaptcha solver (JS)](https://github.com/HDzzzz/Hcaptcha-solver.JS)
    * This is a simple Hcaptcha class for JS that allows a user to solve Hcaptcha via 2captcha
    * This project has been created for both C# & JS
+ * [IPV4 geo-ip lookup (JS)](https://github.com/HDzzzz/IPV4-GeolocationJS)
+   * This is a simple project that uses a large mySQL database data-set to locate location based on IPV4 IP
+   * This does not rely on any web apis and can be ran locally
+
 
 
 
