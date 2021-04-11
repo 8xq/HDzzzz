@@ -21,6 +21,9 @@
  * [IPV4 geo-ip lookup (JS)](https://github.com/HDzzzz/IPV4-GeolocationJS)
    * This is a simple project that uses a large mySQL database data-set to locate location based on IPV4 IP
    * This does not rely on any web apis and can be ran locally
+ * [Cursor effects (JS)](https://github.com/HDzzzz/CursorEffectsJS)
+   * This is a very simple project I did to learn JS more , css and HTML
+   * This website simply enables some CSS cursor effects upon image hover :)
 
 
 
