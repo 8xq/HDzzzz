@@ -24,6 +24,9 @@
  * [Cursor effects (JS)](https://github.com/HDzzzz/CursorEffectsJS)
    * This is a very simple project I did to learn some more JS / HTML / CSS
    * This website simply enables some CSS cursor effects upon image hover :)
+ * [Discord status updater (JS)](https://github.com/HDzzzz/DiscordStatusUpdaterJS)
+   * This is a node JS project using 'request' to set a discord status from an array of lines
+   * This project allows the user to set a status with and without emojis !
 
 
 
