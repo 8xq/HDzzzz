@@ -27,6 +27,9 @@
  * [Discord status updater (JS)](https://github.com/HDzzzz/DiscordStatusUpdaterJS)
    * This is a node JS project using 'request' to set a discord status from an array of lines
    * This project allows the user to set a status with and without emojis !
+ * [Twitch profile chrome extension (JS)](https://github.com/HDzzzz/TwitchInfoJS)
+   * This is a basic JS project I made to learn how to make 'Chrome extensions'
+   * This has a pop-up UI to search twitch profiles for info 
 
 
 
