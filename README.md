@@ -30,6 +30,11 @@
  * [Twitch profile chrome extension (JS)](https://github.com/HDzzzz/TwitchInfoJS)
    * This is a basic JS project I made to learn how to make 'Chrome extensions'
    * This has a pop-up UI to search twitch profiles for info 
+ * [Twitch views monitor (JS)](https://github.com/HDzzzz/TwitchViewsMonitorJS)
+   * Basic JS project to monitor a twitch channels views over a period of time
+   * Data is shown on a visual line chart and data can be exported to .CSV (data) or .PNG (image)
+
+
 
 
 
